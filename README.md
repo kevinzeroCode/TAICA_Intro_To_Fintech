@@ -18,3 +18,8 @@
   * 從零實作比特幣使用的 **secp256k1** 橢圓曲線演算法。
   * 包含 Double-and-Add 快速乘法、模反元素運算。
   * 實作 ECDSA 簽章產生與驗證流程。
+
+* **[HW4: Multi-Asset Portfolio Selection](./HW4)**
+  * 實作多資產選股策略 (Stock Selection)。
+  * 處理價格矩陣數據，進行每日投資組合再平衡 (Rebalancing)。
+  * 比較不同視窗期間 (Window Size) 的績效表現。
