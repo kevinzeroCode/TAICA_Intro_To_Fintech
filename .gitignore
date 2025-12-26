@@ -1,0 +1,14 @@
+# 忽略 Python 編譯產生的暫存檔
+__pycache__/
+*.pyc
+
+# 忽略 Mac 系統自動產生的檔案 (如果你是用 Mac)
+.DS_Store
+
+# 忽略虛擬環境資料夾 (如果有的話)
+venv/
+env/
+
+# 忽略 HW1 裡面的輸出結果 (保留 input.txt 給別人測試，但不需上傳 output)
+HW1/output.txt
+HW1/ans.txt
