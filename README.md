@@ -13,3 +13,8 @@
   * 使用技術指標：MACD, EMA, ATR, Bollinger Bands, KD。
   * 包含參數自動最佳化腳本 (Exhaustive Search)。
   * 實作語言：Python
+
+* **[HW3: Elliptic Curve Cryptography (ECDSA)](./HW3)**
+  * 從零實作比特幣使用的 **secp256k1** 橢圓曲線演算法。
+  * 包含 Double-and-Add 快速乘法、模反元素運算。
+  * 實作 ECDSA 簽章產生與驗證流程。
